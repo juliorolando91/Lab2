@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  code: MyString
+  order_date: 2012-03-20 18:51:43
+  costumer_id: 1
+  order_total: 9.99
+
+two:
+  code: MyString
+  order_date: 2012-03-20 18:51:43
+  costumer_id: 1
+  order_total: 9.99

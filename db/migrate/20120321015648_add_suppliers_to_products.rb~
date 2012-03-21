@@ -1,0 +1,4 @@
+class AddSuppliersToProducts < ActiveRecord::Migration
+  def change
+  end
+end
